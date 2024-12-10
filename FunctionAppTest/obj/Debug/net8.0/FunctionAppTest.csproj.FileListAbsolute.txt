@@ -1,0 +1,6 @@
+C:\Users\rishm\source\repos\FunctionApp3\FunctionAppTest\bin\Debug\net8.0\CoverletSourceRootsMapping_FunctionAppTest
+C:\Users\rishm\source\repos\FunctionApp3\FunctionAppTest\obj\Debug\net8.0\FunctionAppTest.csproj.AssemblyReference.cache
+C:\Users\rishm\source\repos\FunctionApp3\FunctionAppTest\obj\Debug\net8.0\FunctionAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishm\source\repos\FunctionApp3\FunctionAppTest\obj\Debug\net8.0\FunctionAppTest.AssemblyInfoInputs.cache
+C:\Users\rishm\source\repos\FunctionApp3\FunctionAppTest\obj\Debug\net8.0\FunctionAppTest.AssemblyInfo.cs
+C:\Users\rishm\source\repos\FunctionApp3\FunctionAppTest\obj\Debug\net8.0\FunctionAppTest.csproj.CoreCompileInputs.cache
